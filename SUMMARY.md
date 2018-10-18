@@ -1,4 +1,4 @@
 # Summary
 
-* [前端规范](README.md)
+* [前端JavaScript书写规范](README.md)
 
